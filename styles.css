@@ -94,7 +94,7 @@ p, a {
 }
 
 .header, .section__banner, .footer, .footer__black, .section__services, .section__timbers, .browse__container-first, .browse__container-second, .section__dealers, .dealers__order-container  {
-    padding: 0px 132px;
+    padding: 0px 240px;
 }
 
 .header__unordered, .footer__unordered {
