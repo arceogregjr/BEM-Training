@@ -345,6 +345,7 @@ p, a {
 
 .roundwood__container {
     width: 50%;
+    margin: 62px 0px;
 }
 
 .section__roundwood h1, .section__roundwood p {
@@ -381,7 +382,8 @@ p, a {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    padding:20px 50em 20px 20px;
+    width: 800px;
+    padding: 1rem 3rem;
     text-align: left;
     position: relative;
 }
@@ -438,5 +440,3 @@ p, a {
     font-size: 13px;
     margin: 0;
 }
-
-
