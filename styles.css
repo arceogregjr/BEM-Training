@@ -93,7 +93,7 @@ p, a {
     background-color: #C20502;
 }
 
-.header, .section__banner, .footer, .footer__black, .section__services, .section__timbers, .section__dealers {
+.header, .section__banner, .footer, .footer__black, .section__services, .section__timbers, .browse__container-first, .browse__container-second, .section__dealers  {
     padding: 0px 132px;
 }
 
@@ -318,7 +318,7 @@ p, a {
     background-image:url(Assets/hardwares.png);
     background-size: cover;
     display: flex;
-    justify-content: center;
+    justify-content:flex-start;
     align-items: center;
 }
 
@@ -328,7 +328,7 @@ p, a {
     background-image:url(Assets/maple.png);
     background-size: cover;
     display: flex;
-    justify-content: center;
+    justify-content:flex-start;
     align-items: center;
 }
 
